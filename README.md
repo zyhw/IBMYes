@@ -135,7 +135,6 @@ ibmcloud resource groups
 现在返回github，到本项目
 
 ```
-https://github.com/CCChieh/IBMYes
 ```
 
 ![image-20200615184239713](img/README/image-20200615184239713.png)
